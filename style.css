@@ -1,0 +1,36 @@
+#body {
+    background-color: rgb(155, 127, 255);
+}
+
+#titulo1, #titulo2, #titulo3, #titulo4, #titulo5 {
+    color: rgb(81, 28, 131);
+    
+}
+
+#section1{
+    background-color: rgb(193, 193, 112);
+    
+}
+
+#section2{
+    background-color: rgb(193, 193, 112);
+}
+
+#section3{
+    background-color: rgb(193, 193, 112);
+}
+
+#section4{
+    background-color: rgb(193, 193, 112);
+}
+
+#div1, #div2, #div3, #div4 
+{
+margin: auto;
+
+}
+
+.linkedin{
+    width: 291px;
+    height:79.46px;
+}
